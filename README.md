@@ -60,15 +60,15 @@ smart-grocery-store-management-system/
 
 ### Program Flow
 
-<p align="center"><img src="assets/add_product_flow.svg" alt="add product flow" width="100%"></p>
+<p align="center"><img src="assets/add-product-flow.svg" alt="add product flow" width="100%"></p>
 
-<p align="center"><img src="assets/search_product_flow.svg" alt="search product flow" width="100%"></p>
+<p align="center"><img src="assets/search-product-flow.svg" alt="search product flow" width="100%"></p>
 
-<p align="center"><img src="assets/update_stock_flow.svg" alt="update stock flow" width="100%"></p>
+<p align="center"><img src="assets/update-stock-flow.svg" alt="update stock flow" width="100%"></p>
 
-<p align="center"><img src="assets/sale_flow.svg" alt="customer sale flow" width="100%"></p>
+<p align="center"><img src="assets/sale-flow.svg" alt="customer sale flow" width="100%"></p>
 
-<p align="center"><img src="assets/report_flow.svg" alt="store report flow" width="100%"></p>
+<p align="center"><img src="assets/report-flow.svg" alt="store report flow" width="100%"></p>
 
 ### Code Methods Description
 
@@ -116,7 +116,7 @@ smart-grocery-store-management-system/
 
 A **module diagram** was chosen because this project is procedural rather than class-based; it shows the main module, data structures, function groups, and validation helpers.
 
-<p align="center"><img src="assets/uml_diagram.svg" alt="procedural module diagram" width="100%"></p>
+<p align="center"><img src="assets/uml-diagram.svg" alt="procedural module diagram" width="100%"></p>
 
 ## 5. Concepts and Techniques Used
 
