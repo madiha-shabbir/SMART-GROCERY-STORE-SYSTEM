@@ -251,5 +251,5 @@ Product with lowest price: Apple (Rs. 120.00)
 
 ## Author
 
-**Author:** Your Name  
-**GitHub:** https://github.com/your-username
+**Author:** Madiha Shabbir
+**GitHub:** https://github.com/madiha-shabbir
